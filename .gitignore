@@ -1,0 +1,36 @@
+# Claude
+.claude/
+
+# Internal planning/analysis docs
+ANALYSIS_REPORT.md
+project/IMPLEMENTATION_PLAN.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Generated data (re-created by running the scripts)
+project/data/raw/
+project/data/processed/
+
+# Generated plots and metrics (re-created by running the scripts)
+project/plots/
+
+# References / lecture materials (large PDFs, not code)
+references/ЛЕКЦІЇ/
+references/Практичні завдання*.pdf
+references/my_variant.txt
+
+project/presentation/speaker_notes.md
+project/report/IMPLEMENTATION_PLAN.md
+
+# Presentation (generated file)
+project/presentation/
+
+# Jupyter
+.ipynb_checkpoints/
+project/notebooks/
